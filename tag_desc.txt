@@ -1,4 +1,4 @@
- ### * How to list tags : 
+ # * How to list tags : 
 
  ### git tag 
 
