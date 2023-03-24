@@ -1,11 +1,11 @@
-* How to list tags : 
+### * How to list tags : 
 
- git tag 
+### git tag 
 
- *How to delete tag locally : 
+### *How to delete tag locally : 
 
- git tag -d tag_Name 
+### git tag -d tag_Name 
 
- * How to delete tag remotelly : 
+### * How to delete tag remotelly : 
 
- git push origin -d tag_Name
+### git push origin -d tag_Name
